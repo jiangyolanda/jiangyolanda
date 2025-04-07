@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Yolanda
+- 👀 I’m interested in digital marketing
+- 🌱 I’m currently learning social media analytics thru R/Python
+- 💞️ I’m looking to collaborate on 
+- ⚡ Fun fact: living in Netherlands
