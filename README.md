@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Yolanda
+- 👋 Hi, I’m Rukawa
 - 👀 I’m interested in digital marketing
 - 🌱 I’m currently learning social media analytics thru R/Python
-- 💞️ I’m looking to collaborate on 
-- ⚡ Fun fact: living in Netherlands
+- 💞️ I’m looking to collaborate in this area
+- ⚡ Fun fact: living in the Netherlands
