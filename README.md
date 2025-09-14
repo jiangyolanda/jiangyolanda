@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rukawa
-- 👀 I’m interested in digital marketing
-- 🌱 I’m currently learning social media analytics thru R/Python
+- 👋 Hi, I’m Yolanda
+- 👀 I’m interested in data-driven strategy and marketing
+- 🌱 I’m currently learning data science thru R/Python
 - 💞️ I’m looking to collaborate in this area
-- ⚡ Fun fact: living in the Netherlands
+- ⚡ Fun fact: I'm a fan of Doraemon
