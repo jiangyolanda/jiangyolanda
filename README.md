@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Yolanda
-- 👀 I’m interested in data-driven strategy and marketing
+- 👀 I’m interested in exploring the power of data on finding rules and telling stories! 
 - 🌱 I’m currently learning data science thru R/Python and data visualization thru PowerPoint/Tableau
-- 💞️ I’m looking forward to exploring the power of data on finding rules and telling stories! 
+- 💞️ welcome to look at my portfolio in each repository!
